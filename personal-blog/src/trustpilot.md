@@ -10,57 +10,43 @@
 
     Hex code: #140c2a
 
-<br/>
-
-    Type: strong **Blue**
+#### Type: strong **Blue**
 
 #### 2. headline-color
 
     Hex code: #00b67a
 
-<br/>
-
-    Type: medium **Green**
+#### Type: medium **Green**
 
 #### 3. variant-headline-color
 
     Hex code: #68bc6f
 
-<br/>
-
-    Type: medium-light **Green**
+#### Type: medium-light **Green**
 
 #### 4. tint-headline-color
 
     Hex code: #00b6793a
 
-<br/>
-
-    Type: (deep-blur)-medium **Green**
+#### Type: (deep-blur)-medium **Green**
 
 #### 5. text-title
 
     Hex code: #fff
 
-<br/>
-
-    Type: pure **White**
+#### Type: pure **White**
 
 #### 6. text-paragraph
 
     Hex code: #b2b2b6
 
-<br/>
-
-    Type: light **Blue-Gray**
+### Type: light **Blue-Gray**
 
 #### 7. tint-background-color
 
     Hex code: #443e55
 
-<br/>
-
-    Type: (blur)-strong **Blue**
+#### Type: (blur)-strong **Blue**
 
 <br>
 

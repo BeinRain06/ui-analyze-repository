@@ -1,4 +1,4 @@
-## Analyzing benjamin olden websit
+## Analyzing benjamin olden website
 
 ![./assets/%2001-benjamin-olden-com.png](./assets/%2001-benjamin-olden-com.png)
 
@@ -12,99 +12,77 @@
 
     Hex code: #262c30
 
-<br/>
-
-    Type: strong **Dark-Gray**
+#### Type: strong **Dark-Gray**
 
 #### 2. background-body
 
     Hex code: #343a40 & #262c30
 
-<br/>
-
-    Type: cool and strong **Dark-Gray**
+#### Type: cool and strong **Dark-Gray**
 
 #### 3. bg-color-main-button
 
     Hex code: #dc3545
 
-<br/>
-
-    Type: medium **Red**
+#### Type: medium **Red**
 
 #### 4. color-text-auxiliary-button
 
     Hex code: #669db3
 
-<br/>
-
-    Type: medium-light **Blue**
+#### Type: medium-light **Blue**
 
 #### 5. background-icons
 
     Hex code: #d49561
 
-<br/>
-
-    Type: medium **Yellow**
+#### Type: medium **Yellow**
 
 #### 6. color-text-body
 
     Hex code: #d3d2d2
 
-<br/>
-
-    Type: soft **Gray-Dark**
+#### Type: soft **Gray-Dark**
 
 #### 7. color-text-main-button & footer
 
     Hex code: #fff
 
-<br/>
-
-    Type: pure **White**
+#### Type: pure **White**
 
 #### 8. color-text-highlight
 
     Hex code: red
 
-<br/>
-
-    Type: (blur)-medium **Gray**
+#### Type: (blur)-medium **Gray**
 
 #### 9. bg-footer-mastered & underline-primary-tile-decoration
 
 Hex code: #6c757d
 
-<br/>
-
-    Type: light **Gray**
+#### Type: light **Gray**
 
 #### 10. color-hover-ausiliary-button
 
 Hex code: #669db3
 
-<br/>
-
-    Type: light **Blue**
+#### Type: light **Blue**
 
 #### 11. background-cards-project
 
 Hex code: #30363a
 
-<br/>
-
-    Type: cool **Gray**
+#### Type: cool **Gray**
 
 #### 12. background-mastered-technology
 
 Hex code: #494e55 || #3c4148
 
+#### Type: medium **Gray**
+
 <br/>
 
-    Type: medium **Gray**
-
-#### Remarks :
+### Remarks :
 
 **Hierachic** descending Background-color:
 
@@ -192,28 +170,28 @@ light **Gray**
 
 ### B. **04** colors Patterns.
 
-| pattern        | color   | type      | area                    |
-| -------------- | ------- | --------- | ----------------------- |
+| pattern        | color   | type      | area                   |
+| -------------- | ------- | --------- | ---------------------- |
 | bg-container   |
-|                | #30363a |           | bg-card                 |
-|                | #343a40 |           | bg-main-section         |
-|                | #262c30 |           | bg-navbar               |
-|                | #6c757d |           | bg-footer               |
-|                | #d49561 |           | bg-icons                |
-|                | #494e55 |           | bg-highlight-technology |
+|                | #30363a |           | bg-card                |
+|                | #343a40 |           | bg-main-section        |
+|                | #262c30 |           | bg-navbar              |
+|                | #6c757d |           | bg-footer              |
+|                | #d49561 |           | bg-icons               |
+|                | #494e55 |           | bg-tech-skill          |
 |                |
 | bg-button      |
-|                | #dc3545 | cover     | bg-main-button          |
-|                | red     | hover     | bg-main-button          |
-|                | #669db3 | hover     | bg-aux-button           |
+|                | #dc3545 | cover     | bg-main-button         |
+|                | red     | hover     | bg-main-button         |
+|                | #669db3 | hover     | bg-aux-button          |
 |                |
 | text-color     |
-|                | #d3d2d2 | main      | title-paragraph         |
-|                | #fff    | secondary | title - footer          |
-|                | #669db3 | special   | text-aux-button         |
+|                | #d3d2d2 | main      | title-paragraph        |
+|                | #fff    | secondary | title - footer         |
+|                | #669db3 | special   | text-aux-button        |
 |                |
 | text-highlight |
-|                | red     | highlight | text-highlight-navlink  |
+|                | red     | highlight | text-highlight-navlink |
 
 ### C. Colors Graph.
 
